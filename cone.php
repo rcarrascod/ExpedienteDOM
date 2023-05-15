@@ -1,9 +1,9 @@
 <?php
 //Archivo de Coneccion a la Base de Datos de Expediente obras
-//Archivo creado por Raúl Carrasco Dachs, para el aplicativo.
+//Archivo creado por RaÃºl Carrasco Dachs, para el aplicativo.
 function Conecta()
 {
-   if (!($link=mysql_connect("10.10.2.8","obrasrespaldo","5Rn8Rs5cBamD7qjR"))) 
+   if (!($link=mysql_connect("","",""))) 
    //primero parametro corresponde al equipo que me estoy conectando
    //Segundo Parametro corresponde a la BD a trabajar
    //Tercer parametro corresponde a la clave. Se debe Cambiar clave.
