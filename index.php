@@ -1,5 +1,5 @@
 <html>
-<title>SISTEMA DE INGRESO Y GESTION DE EXPEDIENTES DIRECCION DE OBRAS MUNICIPALIDAD DE HUECHURABA</title>
+<title>SISTEMA DE INGRESO Y GESTION DE EXPEDIENTES DIRECCION DE OBRAS</title>
 <head>
 <STYLE>
 TABLE.General {
@@ -59,7 +59,7 @@ TABLE.EnRemodelacio {
  <div>
   <noscript>
  Para utilizar las funcionalidades completas de este sitio es necesario tener
- JavaScript habilitado. Aquí están las <a href="http://www.enable-javascript.com/es/"
+ JavaScript habilitado. AquÃ­ estÃ¡n las <a href="http://www.enable-javascript.com/es/"
  target="_blank"> instrucciones para habilitar JavaScript en tu navegador web</a>.
 </noscript>
 </div>
